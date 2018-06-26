@@ -1,2 +1,3 @@
 # hello-world
-A practise
+A practise of GitHub to farmilirize myself with the processes in preperation for future projects
+
